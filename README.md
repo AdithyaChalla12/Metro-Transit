@@ -42,9 +42,3 @@ This repository contains a detailed analysis of global metro transit systems. Th
 - **Visualization Tools**: Power BI
 - **Data Cleaning**: Performed using Python
 
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/metro-transit-systems.git
-   cd metro-transit-systems
