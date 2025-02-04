@@ -24,7 +24,7 @@ This repository contains a detailed analysis of global metro transit systems. Th
 
 ## Dashboard Preview
 
-![Metro Transit Systems Dashboard](path/to/your/image.png)
+![Metro Transit Systems Dashboard](https://github.com/AdithyaChalla12/Metro-Transit/blob/main/notebook/Screenshot%202025-02-03%20184943.png)
 
 ## Dataset Overview
 
