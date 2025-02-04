@@ -42,3 +42,7 @@ This repository contains a detailed analysis of global metro transit systems. Th
 - **Visualization Tools**: Power BI
 - **Data Cleaning**: Performed using Python
 
+## Links
+- **Kaggle Notebook:** [EDA - Metro Transit Systems](https://www.kaggle.com/code/adithyachalla/eda-metro-transit)  
+- **Kaggle Dataset:** [Metro Transit Data](https://www.kaggle.com/datasets/adithyachalla/metro-transit-data)  
+
